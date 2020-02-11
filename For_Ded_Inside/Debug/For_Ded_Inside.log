@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\maksi\source\repos\for_ded_inside\for_ded_inside\source.cpp(29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  For_Ded_Inside.vcxproj -> C:\Users\maksi\source\repos\For_Ded_Inside\Debug\For_Ded_Inside.exe
